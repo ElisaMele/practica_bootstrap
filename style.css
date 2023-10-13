@@ -1,0 +1,17 @@
+.card-img-top {
+    height: 400px;
+}
+
+form {
+    padding-top: 5rem;
+}
+
+.btn {
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+
+.btn:hover {
+    background-color: black;
+    border-color: black;
+}
